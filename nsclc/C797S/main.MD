@@ -4,7 +4,7 @@ Date: December 4, 2025 Candidate ID: ORACLE-1 Methodology: Activation Steering (
 1. Executive Summary
 We propose ORACLE-1 (N-(4-bromo-5-fluoro-2-isopropylphenyl)-N'-((difluoromethyl)sulfonyl)urea), a novel small-molecule lead compound designed to target EGFR C797S resistance in non-small cell lung cancer (NSCLC).
 
-The candidate was generated using Inference-Time Intervention on a 3B parameter language model, guided by vectors optimizing for physicochemical stability and binding affinity. Computational docking predicts an affinity of -8.0 kcal/mol against the EGFR allosteric pocket. Pharmacophore modeling suggests a dual-mechanism profile with potential activity against RAF kinases and Carbonic Anhydrase IX (CA-IX). Population PK/PD simulations predict favorable target coverage under a BID (twice-daily) dosing regimen.
+The candidate was generated using Inference-Time Intervention on a 3B parameter language model, guided by vectors optimizing for physicochemical stability and binding affinity. Computational docking predicts an affinity of -8.0 kcal/mol against the EGFR allosteric pocket. Pharmacophore modeling suggests a dual-mechanism profile with potential activity against RAF kinases and Carbonic Anhydrase IX (CA-IX). Population PK/PD simulations predict favorable target coverage under a EPR Nanoparticle dosing regimen.
 
 2. Rationale and Biological Context
 Target: Epidermal Growth Factor Receptor (EGFR).
